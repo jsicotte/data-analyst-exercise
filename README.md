@@ -14,7 +14,7 @@ Use either Python or R to complete the following:
 1. Merge the two CSV files into a single dataset. Use the mapping YAML file to normalize the type field to a product
 line.
 2. Filter the data such that it only contains transactions for 1/2/2023.
-3. Using the merged and filtered data, create two histograms:
-   1. Total revenue in each product line for 1/2.
-   2. Total number of items purchased for each hour of the day on 1/2.
+3. Using the merged and filtered data:
+   1. Create a bar chart that is total revenue in each product line for 1/2.
+   2. Create a histogram for the number of items purchased for each hour of the day on 1/2.
 4. Create a GitHub repository with your scripts/notebooks.
